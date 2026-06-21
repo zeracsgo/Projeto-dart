@@ -1,5 +1,4 @@
-# TaskCal
-
+# Planejei
 Aplicativo Flutter de calendário com lista de tarefas diárias.  
 Projeto desenvolvido para a ACQA da disciplina **Desenvolvimento para Dispositivos Móveis** — Uniube.
 
