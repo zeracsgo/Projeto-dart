@@ -94,4 +94,4 @@ lib/
 
 ## Autor
 
-Cesar — Análise e Desenvolvimento de Sistemas — Uniube
+Gabriel — Análise e Desenvolvimento de Sistemas — Uniube
